@@ -23,4 +23,4 @@ pairplot
 Heatmap (Correlation Matrix)
 
 # 📦 Libraries Used
-pandas, numpy, seaborn, matplotlib
+pandas, numpy, seaborn
